@@ -1,4 +1,4 @@
-## TestProcessor ##
+## Text Processor ##
 
 This is a simple text processor that reads a text file and outputs some relevant information about the contents of the file. This program also allows the user to alter the contents of the file.
 
